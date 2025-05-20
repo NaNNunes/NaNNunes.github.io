@@ -62,65 +62,6 @@
     }
   ],
   "users": [
-    {
-      "id": "e4bb",
-      "nome": "Maria",
-      "sobrenome": "Helena",
-      "cpf": "13312793726",
-      "celular": "08040028922",
-      "email": "user@gmail.com",
-      "senha": "Senha123@",
-      "confirmarSenha": "Senha123@",
-      "zipcode": "29135542",
-      "state": "",
-      "street": "",
-      "neighborhood": "",
-      "city": ""
-    },
-    {
-      "id": "ca0d",
-      "nome": "Lara",
-      "sobrenome": "Milanez",
-      "cpf": "16574721750",
-      "celular": "08040028922",
-      "email": "lm@gmail.com",
-      "senha": "Senha123@",
-      "confirmarSenha": "Senha123@",
-      "zipcode": "29050670",
-      "state": "",
-      "street": "",
-      "neighborhood": "",
-      "city": ""
-    },
-    {
-      "id": "d35f",
-      "nome": "User",
-      "sobrenome": "Usuario",
-      "cpf": "67917092003",
-      "celular": "08040028922",
-      "email": "usamail@sollobr.com.br",
-      "senha": "User@123",
-      "confirmarSenha": "User@123",
-      "zipcode": "29135508",
-      "state": "",
-      "street": "",
-      "neighborhood": "",
-      "city": ""
-    },
-    {
-      "id": "868e",
-      "nome": "kllayver",
-      "sobrenome": "Augustho",
-      "cpf": "20669742775",
-      "celular": "27997205876",
-      "email": "kllayveraugustho@gmail.com",
-      "senha": "Kllayver@123",
-      "confirmarSenha": "Kllayver@123",
-      "zipcode": "29050670",
-      "state": "",
-      "street": "",
-      "neighborhood": "",
-      "city": ""
-    }
+    
   ]
 }
